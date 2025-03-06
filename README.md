@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 3 years of experience with Ruby development. Experienced with all stages of the development cycle of a project: development, testing, and deploying the project on a production server, using a lot of technology, practices, and instruments.
+I have 4 years of experience with Ruby development. Experienced with all stages of the development cycle of a project: development, testing, and deploying the project on a production server, using a lot of technology, practices, and instruments.
 
 
 ## 🌐 Socials:
