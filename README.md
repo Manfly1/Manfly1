@@ -1,5 +1,9 @@
 # 💫 About Me:
-I have 4 years of experience with Ruby development. Experienced with all stages of the development cycle of a project: development, testing, and deploying the project on a production server, using a lot of technology, practices, and instruments.
+I’m a Ruby on Rails developer with 4+ years of hands-on experience building scalable, reliable, and efficient backend systems.
+
+I’ve worked across all stages of the software development lifecycle — from feature planning and testing to production deployment. I am passionate about writing clean, maintainable code and improving developer productivity through smart architectural decisions and automation.
+
+I’m always eager to tackle challenging problems and deliver impactful software solutions.
 
 
 ## 🌐 Socials:
